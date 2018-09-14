@@ -49,6 +49,7 @@ What will be the value of count?
 Choose the correct answer
 
 1) 1
-2) 2
+***2) 2****
 3) 3
 4) 4
+***the answer is 2***
